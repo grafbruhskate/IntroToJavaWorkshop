@@ -11,7 +11,7 @@ if(answer.equals("yes")){
 	JOptionPane.showMessageDialog(null,"YOU WILL RULE THE WORLD");
 }
 else{
-	JOptionPane.showMessageDialog(null,"good luck washing dishes");
+	JOptionPane.showMessageDialog(null,"good luck washing dishes,FOOL");
 }
 
 		// 3. Otherwise, wish them good luck washing dishes.
