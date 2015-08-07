@@ -4,6 +4,7 @@ import org.jointheleague.graphical.robot.Robot;
 /*** Teacher's note ***/
  /* Before beginning recipe: 
  * 1. ask students to find and explain the variable in this recipe. 
+ * 
  * 2. ask students what robot commands they think they will use to make picture in the laminated hand-outs. */
 
 public class FlamingNinjaStar {
